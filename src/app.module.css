@@ -1,0 +1,10 @@
+.background {
+  display: flex;
+  background-color: grey;
+  height: 100vh;
+}
+
+.buttonBack {
+  background-color: wheat;
+  display: grid;
+}
